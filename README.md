@@ -135,6 +135,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [LASER](https://github.com/facebookresearch/LASER)
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
+- [Relevance AI - Vector Platform](https://relevance.ai/)
 - [pinecone](https://www.pinecone.io/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
